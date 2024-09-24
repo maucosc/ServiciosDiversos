@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServicioDiverso</string>
+    <string name="tv_welcome">Bienvenido a menu</string>
+    <string name="btnRutificador">Validar Rut</string>
+    <string name="btnIMC">Calculadora de IMC</string>
+    <string name="btnMoneda">Conversor de moneda</string>
+    <string name="btnAletorio">Numeros aleatorios</string>
+    <string name="tvDescripcion">Marco Silva - Ing. Informatica - 2024</string>
+</resources>
